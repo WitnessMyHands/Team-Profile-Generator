@@ -1,6 +1,7 @@
 # Team Profile Generator
 
 Video Link: https://www.youtube.com/watch?v=mQhW5DRwPhU
+
 Repository Link: https://github.com/WitnessMyHands/Team-Profile-Generator
 
 ## Information
@@ -15,7 +16,7 @@ The objective is to generate an HTML webpage from the back-end that displays spe
 
 The following image shows a mock-up of the generated HTML’s appearance (using Boostrap Styling) and functionality:
 
-![HTML webpage titled “The 'BEE' Team” features three boxes listing employee names, titles, and other key info.](./assets/home.jpg)
+![HTML webpage titled “The 'BEE' Team” features three boxes listing employee names, titles, and other key info.](./assets/Home.jpg)
 
 ## Testing
 
